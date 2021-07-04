@@ -1,0 +1,6 @@
+Django
+web3
+etherscan
+coincurve
+pysha3
+# eth-brownie --install-option='--ignore-installed certifi'
