@@ -4,7 +4,6 @@ Template for Web3.py scripts running on a Django backend
 
 <p float="left">
   <img src="https://miro.medium.com/max/1400/1*XCUD4_6FdYaZgM4b8FbjUg.png" width="300" />
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CAO2792J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fvuom63fat7aizcktlm3.png" width="400" /> 
 </p>
 
 
